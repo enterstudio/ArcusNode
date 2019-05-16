@@ -39,7 +39,7 @@
   , "url" : "http://github.com/OpenRTMFP/ArcusNode.git"
   }],
   "dependencies": {
-      "node-gyp": "0.9"
+      "node-gyp": "1.0.1"
   },
   "scripts" : { 
     "preinstall" : "", 
